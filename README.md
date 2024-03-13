@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Maks</h1>
-<h3 align="center">Second-year data science student</h3>
-<img align="right" alt"image" width="300" src"https://i.gifer.com/15MA.gif"
+<h3 align="center">Second-year Data Science student</h3>
 <img align="right" height="300" width="100" src="https://www.animatedimages.org/data/media/218/animated-penguin-image-0034.gif" alt="maksymilianzmuda" /> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maksymilianzmuda&label=Profile%20views&color=0e75b6&style=flat" alt="maksymilianzmuda" /> </p>
 
 - 🔭 I’m currently working on **.Net React Stock management app**
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning **.NET web development**
+
+- 📫 How to reach me **maksymilianzmuda02@gmail.com**
+
+
 <p align="left">
 </p>
 
